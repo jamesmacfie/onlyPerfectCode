@@ -1,0 +1,12 @@
+{
+	"name": "onlyPerfectCode",
+	"version": "1.0.0",
+	"description": "Did you know that Walter Rumsby doesn't need to write tests because he writes perfect code 80% of the time, every time?",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"LOL. If Walter doesn't write tests then neither do I.\" && exit 1"
+	},
+	"keywords": [],
+	"author": "James Macfie <james@macfie.co.nz> (http://jamesmacfie.com/)",
+	"license": "ISC"
+}
