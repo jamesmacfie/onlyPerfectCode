@@ -1,5 +1,5 @@
 {
-	"name": "onlyPerfectCode",
+	"name": "onlyperfectcode",
 	"version": "1.0.0",
 	"description": "Did you know that Walter Rumsby doesn't need to write tests because he writes perfect code 80% of the time, every time?",
 	"main": "index.js",
